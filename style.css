@@ -1,0 +1,17 @@
+.img-display{
+    background-image: url("image/photo.png");
+    background-size: cover;
+    min-height: 42vh;
+}
+.img-avatar{
+    width: 36%;
+    position: absolute;
+    left: 6%;
+    bottom: 7%;
+}
+.result{
+    position: absolute;
+    left: 48%;
+    bottom: 34%;
+
+}
